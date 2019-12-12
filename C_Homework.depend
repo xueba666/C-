@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1555589514 source:c:\users\administrator\desktop\c_homework\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"head.h"
+	"functions.h"
+
+1555744253 c:\users\administrator\desktop\c_homework\head.h
+
+1555743249 c:\users\administrator\desktop\c_homework\functions.h
+
+1555589514 source:c:\users\administrator\desktop\c_homework\program\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"head.h"
+	"functions.h"
+
+1555590846 c:\users\administrator\desktop\c_homework\program\head.h
+
+1555590742 c:\users\administrator\desktop\c_homework\program\functions.h
+
+1555589514 source:c:\users\user\desktop\c_homework\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"head.h"
+	"functions.h"
+
+1555659451 c:\users\user\desktop\c_homework\head.h
+
+1555659775 c:\users\user\desktop\c_homework\functions.h
+
+1575974853 source:c:\users\123\desktop\c_homework2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"head.h"
+	"functions.h"
+
+1575974889 c:\users\123\desktop\c_homework2\head.h
+
+1575974889 c:\users\123\desktop\c_homework2\functions.h
+
+1575974853 source:c:\users\acm\desktop\c_homework2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"head.h"
+	"functions.h"
+
+1576131686 c:\users\acm\desktop\c_homework2\head.h
+
+1575974889 c:\users\acm\desktop\c_homework2\functions.h
+
